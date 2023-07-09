@@ -102,7 +102,7 @@ header h1{
     color: rgb(155, 153, 153);
 }
 
-@media screen and (max-width:300px){
+@media screen and (max-width:600px){
 
     
     header h1{
